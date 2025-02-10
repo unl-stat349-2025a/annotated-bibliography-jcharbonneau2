@@ -11,16 +11,16 @@ citations-hover: false
 
 @annualrevarticle
 
-
 # References
 
 @ref1
 
-- Summary
+-   Summary
 
-- Reliability and relationship to the topic
+-   Reliability and relationship to the topic
 
-- Missing pieces
-    - thing 1
+-   Missing pieces
 
-    - thing 2
+    -   thing 1
+
+    -   thing 2
