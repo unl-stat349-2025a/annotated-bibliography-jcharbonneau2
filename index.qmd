@@ -9,18 +9,30 @@ citations-hover: false
 
 # Annual Review Article
 
-@annualrevarticle
+@inácio2021
 
 # References
 
-@ref1
+@branscum2008
 
--   Summary
+-   Summary: Branscum writes about the semiparametric framework that was developed by him and his team that deals with Bayesian semiparametric and noparametric models in order to assess disease diagnosis accuracy and efficiency. Using this framework, they obtain predictive possibilities of disease based on several factors, and developing a framework based off their findings.
 
--   Reliability and relationship to the topic
+-   Reliability and relationship to the topic: Branscum is a professor and researcher at Oregon State University and specializes in Bayesian semiparametric and non-parametric modeling for diagnostic purposes. Given that my article is about diagnosis algorithms and methods, the framework that was developed by Branscum's team would be pretty big and relevant here.
 
 -   Missing pieces
 
-    -   thing 1
+    -   thing 1: I don't know as much as I would like to about Bayesian models, so I'd definitely have to become more familiar with those
 
-    -   thing 2
+    -   thing 2: I'd definitely have to get more information about how algorithms and formulas work in the world of biostatsitics, and how they make sure variables are accounted for.
+
+@kim2017
+
+-   Summary: Kim and Huang write about how combining multiple markers can improve classification accuracy, and there for diagnosis accuracy, rather than using a single health marker. Here, they bring in the ROC curves. They propose a method to estimate the best linear marker combinations for their data.
+
+-   Reliability and relationship to the topic: Soyoung Kim is a biostatistician at the Medical College of Wisconsin, and Yin Huang is a biostatistican professor at the University of Washington. Again, as the article is about diagnosis methods, the idea that a combination of biomarkers rather than just one could prove to be very important in research in how to better the accuracy rates.
+
+-   Missing pieces:
+
+    -   thing 1: The idea of using multiple biomarkers is very interesting, and I do think it could be done, but I do wonder how well possible confounding variables are accounted for. Maybe looking into peer reviews or other ways to see what people have to say about that?
+
+    -   thing 2: I would definitely have to familiarize myself more with ROC curves and how they're used across several fields.
