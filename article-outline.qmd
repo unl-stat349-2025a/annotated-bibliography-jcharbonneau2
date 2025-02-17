@@ -1,0 +1,68 @@
+---
+title: "article-outline"
+author: "Jo Charbonneau"
+format: html
+editor: visual
+---
+
+**Reverse Outline**
+
+1.  Introduction
+
+-   Main goal: distinguish diseased and nondiseased individuals
+
+-   Aim of the article is to overview methods for evaluating diagnostic accuracy with an emphasis on ROC curves
+
+-   Structure and outline of the article, covered in subsequent sections
+
+2.  Illustrative Example
+
+-   Introduction to insulin resistance (IR) as a feature of several disorders (T2D, cardiovascular, etc)
+
+-   Purpose is to provide an illustrative example of what is happening within the medical fields that are using these statistical methods
+
+-   Relates to the thesis by providing a more concrete and applicable example of how these methods are used
+
+3.  Popular Measures of Accuracy
+
+-   Provides in depth explanations of binary tests (3.1), continuous tests (3.2), and ROC Curve and related indices estimation (3.3)
+
+-   Provides several formulas and methods for each test and estimation
+
+-   Supports the thesis by drawing in multiple methods and using each to conduct analysis on diagnostic criteria
+
+-   Gives an illustration (3.4) of what these methods look like, specifically going through the ROC curve
+
+4.  ROC Curves and Covariates
+
+-   Defines the ROC curve and why it might be used, providing notation and definitions in 4.2
+
+-   Introduces covariate-specific ROC curve estimation and the broad division into two categories (Induced and Direct Methodology)
+
+-   Defines and gives equations for the Covariate Adjusted ROC curve in 4.4
+
+-   Supportive of the thesis as ROC curve estimation is a huge aspect of this article and goes through the specifics of multiple ways to do it
+
+5.  ROC Curves and Time (Covariates)
+
+-   Not only is diagnosis a huge factor, but prognosis is as well, so the use of predicting time is important
+
+-   Notation and definitions given
+
+-   Though shorter, this section supports the thesis by giving another way these methods are used and how they're important to the medical field
+
+6.  Software
+
+-   By no means an exhaustive review; main software is R
+
+-   Package used is pROC()
+
+-   Though not necessarily directly supporting the thesis, it's good to have the source of the data given and how the numbers were analyzed with an R package
+
+7.  Discussion and Further Topics (Conclusion)
+
+-   Restates the purpose of the article and the reviewing of the methods
+
+-   The existence of a gold standard test was assumed, but found to likely be not really possible for every situation
+
+-   The further topic of Biomarkers and multiple biomarkers is discussed
