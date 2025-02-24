@@ -1,0 +1,16 @@
+---
+title: "rhetoric"
+author: "Jo Charbonneau"
+format: pdf
+editor: visual
+---
+
+Finding a rhetorical argument in a study about the accuracy of statistical methods in medical studies is difficult, as there aren’t a lot of opinions to go off of. Ignacio brings in many other sources concerning this, perhaps in an effort to remain unbiased. However, there are some instances where bias is unavoidable and will shine through no matter what. 
+
+One of the first examples comes in the introduction. Ignacio goes on to critique gold standard tests, claiming that they are not always optimal. She states, “However, gold standard tests (e.g., a biopsy) might not only be expensive, but also invasive and potentially harmful. Economic and/or ethical reasons may thus preclude the routine use of gold standard tests except when sufficient evidence is present” [@ignacio, p.2, para. 1]. This subtly implies that the author has at least some opinions on making sure that there is economic stability within tests and that it should be a strong factor in making sure things are accurate and well done. 
+
+Another strong example comes in when looking at the author’s critique of the standard assumption in the definition of the ROC curve, which is that diseased and non-diseased populations are homogeneous in regards to the test’s performance. The fact that this is rarely true in practice is pointed out. [@ignacio, pg. 13, para. 1]. This is indicative that Ignacio and the other authors hold the belief that the standard model is incomplete or over simplified and holds the need to be reconsidered. This definitely opens the door to some debate as to whether or not the methods used should be looked at again as something so commonly used. 
+
+A better use of rhetoric, in my opinion, comes much later in the article during the Discussions and Further Topics section. In this section, the authors acknowledge that they are coming from a high level perspective, and that many factors have been left out [@ignacio, p.24, para.1]. First, this establishes a level of humility that they are looking at one specific topic (the ROC curve) and that there are factors of it that may have been intentionally or unintentionally left out during their research and compilation of their findings. In the final paragraph, they also point out the fact that ROC regression has received little research and there are many gaps in the existing research [@ignacio, p.25, para. 4]. This definitely implies that the authors believe there are significant gaps in this research and ROC curves need to be researched more heavily to better understand what the world is working with.
+
+With just these examples alone, it's clear that there are definitely some opinions held by those who wrote the article. Good or bad, opinions can rarely be hidden in articles, even ones such as this where a lot of it is purely data and formula driven. However, it's important to have these opinions and ideas, as no research could be performed otherwise.
